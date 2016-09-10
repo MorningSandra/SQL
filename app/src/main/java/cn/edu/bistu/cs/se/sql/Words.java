@@ -2,9 +2,6 @@ package cn.edu.bistu.cs.se.sql;
 
 import android.provider.BaseColumns;
 
-/**
- * Created by hbs on 2015-10-5.
- */
 public class Words {
     public Words() {
     }
