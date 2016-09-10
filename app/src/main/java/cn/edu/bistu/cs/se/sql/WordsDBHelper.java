@@ -5,9 +5,6 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.provider.UserDictionary;
 
-/**
- * Created by hbs on 2015-10-5.
- */
 public class WordsDBHelper extends SQLiteOpenHelper {
 
     private final static String DATABASE_NAME = "wordsdb";//数据库名字
